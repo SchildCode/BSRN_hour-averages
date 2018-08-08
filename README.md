@@ -7,10 +7,10 @@
 
 License:
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), which means the following:
-i)   Give appropriate acknowledgement/credit for its use,
-ii)  It may be used for commercial purposes,
-iii) You can edit it but indicate all changes in the code,
-iv)  You can redistribute this code only under same license
+- Give appropriate acknowledgement/credit for its use,
+- It may be used for commercial purposes,
+- You can edit it but indicate all changes in the code,
+- You can redistribute this code only under same license
 
 Author:
 Peter G. Schild (peter.schild@OsloMet.no), HiOA, Oslo, Norway, 2016-2018
