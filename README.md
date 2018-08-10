@@ -5,12 +5,12 @@
 - The 'Import' macro checks data and flags any gaps or extreme values. The user can thus delete bad data. Quality-control checks include BSRN's recommended QC checks for extreme values, intercomparisons (direct, diffuse & global), and an additional test for time-shifted solar data.
 - Small gaps (user specified length) are interpolated, while hours with long gaps of BSRN data are left empty.
 
-License:
+### License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), which means the following:
 - Give appropriate acknowledgement/credit for its use,
 - It may be used for commercial purposes,
 - You can edit it but indicate all changes in the code,
 - You can redistribute this code only under same license
 
-Author:
+### Author
 Peter G. Schild (peter.schild@OsloMet.no), HiOA, Oslo, Norway, 2016-2018
